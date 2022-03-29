@@ -18,7 +18,7 @@ data: [consider_data_2013.csv](https://github.com/Yaxin-Cui/weighted-network-pro
 [product_data_2014.csv](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/product_data_2014.csv)
 
 ## Choice network
-![choice network](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/Figure%203.png)
+![choice network](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/Figure%206.png)
 
 ### Code:
 [choice_network.R](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/choice_network.R)
