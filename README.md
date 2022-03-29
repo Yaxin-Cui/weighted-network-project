@@ -6,6 +6,7 @@
 - The code is writing under R language and using statenet package for ERGM simulation. There are two seperate codes corresponding to the co-consideration network and choice network constructed by customer purchase and consideration history. 
 
 ## Co-consideration network
+![co-consideration network](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/Figure%203.png)
 
 ### Code: 
 [co-consideration_network.R](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/choice_network.R)
@@ -17,6 +18,7 @@ data: [consider_data_2013.csv](https://github.com/Yaxin-Cui/weighted-network-pro
 [product_data_2014.csv](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/product_data_2014.csv)
 
 ## Choice network
+![choice network](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/Figure%203.png)
 
 ### Code:
 [choice_network.R](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/choice_network.R)
