@@ -11,7 +11,10 @@
 [co-consideration_network.R](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/choice_network.R)
 
 ### Data:
-data: consider_data_2013.csv, consider_data_2014.csv, product_data_2013.csv, product_data_2014.csv
+data: [consider_data_2013.csv](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/consider_data_2013.csv), 
+[consider_data_2014.csv](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/consider_data_2014.csv), 
+[product_data_2013.csv](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/product_data_2013.csv), 
+[product_data_2014.csv](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/product_data_2014.csv)
 
 ## Choice network
 
@@ -19,7 +22,8 @@ data: consider_data_2013.csv, consider_data_2014.csv, product_data_2013.csv, pro
 [choice_network.R](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/choice_network.R)
 
 ### Data:
-consider_data_crossover.csv, product_data_crossover.csv
+[consider_data_crossover.csv](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/consider_data_crossover.csv), 
+[product_data_crossover.csv](https://github.com/Yaxin-Cui/weighted-network-project/blob/main/product_data_crossover.csv)
 
 ## Note:
 All data have been anomalized and the real feature values have been hidden. Therefore, you may not get the same results in the paper, but the code should illustrate the basic steps of network construction, estimation and prediction.
